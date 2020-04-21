@@ -1,0 +1,9 @@
+{
+  "city": ["巴中","洛阳","深圳","顺义","杨浦","重庆"],
+  "nickname": "mhiwy",
+  "mail": "1367398103@qq.com",
+  "password":"xcvvzezwohjdiihf",
+  "server": "smtp.qq.com",
+  "addr": "smtp.qq.com:587",
+  "to": ["1367398103@qq.com"]
+}
